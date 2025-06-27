@@ -10,8 +10,7 @@
 
 ## 2. Deployed Portfolio Link
 
-- **GitHub Pages URL:**  
-  [Live Portfolio Link](https://github.com/is-project-4th-year/build-your-portfolio-github-workflow-essentials-Martinlenga)
+- **GitHub Pages URL:**  [Live Portfolio Link]( https://is-project-4th-year.github.io/build-your-portfolio-github-workflow-essentials-Martinlenga/)
 
 ---
 
